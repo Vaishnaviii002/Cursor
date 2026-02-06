@@ -23,7 +23,6 @@ Font
 The layout uses a clean modern sans-serif font similar to SaaS platforms:
 
 - Primary Font: 'Inter', sans-serif;
-- 
 Example:
 css
 font-family: 'Inter', sans-serif;
@@ -45,7 +44,7 @@ Installation / Usage
 
 1. Clone the repository:
    ```bash
-   https://github.com/Vaishnaviii002/Html-Resume
+  https://github.com/Vaishnaviii002/Cursor
 
 2. Project Screenshot
 
